@@ -17,7 +17,7 @@ Este é um aplicativo web interativo que permite adicionar amigos a uma lista e 
 ## Como Executar o Projeto 💻
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/GSilvelane/Especializacao-Oracle-ONE-F2-T8.git
+   git clone https://github.com/GSilvelane/Challenge-Amigo-Secreto.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
