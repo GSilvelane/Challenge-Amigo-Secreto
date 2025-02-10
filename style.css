@@ -160,3 +160,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.rodape {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.rodape p span {
+    color: #c50069;
+    font-weight: bolder;
+}
